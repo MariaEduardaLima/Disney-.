@@ -42,12 +42,13 @@ nav ul li a {
 }
 
 .photo {
+
     display: inline-block;
     margin: 10px;
 }
 
 .photo img {
-    max-width: 100%;
+    max-width: 80%;
 }
 
 footer {
