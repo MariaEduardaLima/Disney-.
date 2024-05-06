@@ -48,7 +48,7 @@ nav ul li a {
 }
 
 .photo img {
-    max-width: 20%;
+    max-width: 100%;
 }
 
 footer {
@@ -58,6 +58,6 @@ footer {
     padding: 10px;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 20%;
 }
 
